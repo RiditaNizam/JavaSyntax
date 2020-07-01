@@ -6,3 +6,5 @@ Basic “Hello World” example using packages to demonstrate the structure of a
 Introduction to Eclipse.
 
 Example covering the basics of data types, objects and methods.
+
+01-Java-Fundamentals-Walkthroughs-CoreSyntax
